@@ -1,6 +1,6 @@
 div#titulo {
     display: flex;
-    background-color: green;
+    background-color: rgb(6, 170, 6);
     max-width: 400px;
     max-height: 100px;
     border-radius: 10px;
@@ -14,7 +14,7 @@ div#titulo {
 }
 div.edit {
     display: flex;
-    background-color: green;
+    background-color: rgb(6, 170, 6);
     max-width: 800px;
     max-height: 400px;
     border-radius: 10px;
