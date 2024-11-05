@@ -26,3 +26,15 @@ div.edit {
     padding: 20px;
 
 }
+img#coisa {
+    max-width: 45px;
+    transform: translate(7px, 14px);
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img#engrena {
+    max-width: 250px;
+    transform: translate(20px, 45px);
+}
