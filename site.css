@@ -1,1 +1,22 @@
+div#titulo {
+    display: flex;
+    background-color: green;
+    max-width: 400px;
+    max-height: 100px;
+    border-radius: 10px;
+    border-color: black;
+    text-align: center;
+    margin: 0 auto;
+    gap: 20px;
+}
+div.edit {
+    display: flex;
+    background-color: green;
+    max-width: 800px;
+    max-height: 400px;
+    border-radius: 10px;
+    text-align: center;
+    border-color: black;
+    gap: 20px;
 
+}
