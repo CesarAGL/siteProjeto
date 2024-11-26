@@ -1,5 +1,5 @@
 ### Links:
-#### Link instagram: https://www.instagram.com/roboticajrifpr/
+#### Link instagram: https://www.instagram.com/jr_robotica/
 #### Link site: https://cesaragl.github.io/siteProjeto/
 ### Explicação sobre o Projeto de Robótica Júnior:
 O projeto que estou fazendo no momento está desativado, mas mesmo assim estou trabalhando encima dele.
